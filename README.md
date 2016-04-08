@@ -1,6 +1,6 @@
 # Issues
 
-Join the help & support chat!
+Join the help & support chat on gitter!
 
 [![Join the chat at https://gitter.im/appernetic/issues](https://badges.gitter.im/appernetic/issues.svg)](https://gitter.im/appernetic/issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
